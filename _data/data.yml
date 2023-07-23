@@ -3,13 +3,13 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
+    position: left # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Dylan Khue
+    tagline: Project Technical Manager
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -91,22 +91,18 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Project Technical Manager
+        time: 2021 - Present
+        company: FPT Software, Da Nang, Viet Nam
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
+          - Key Responsibilities:
+            - Estimation 
+            - Architech plan
+            - Review Coding
+            - Response Client
+          - Key Archiment
             - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
+      - role: Data Engineer
         time: 2014 - 2015
         company: Google, London
         details: |
@@ -119,7 +115,7 @@ experiences:
             - Bullet point
       - role: UI Developer
         time: 2012 - 2014
-        company: Amazon, London
+        company: Software Engineer
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
